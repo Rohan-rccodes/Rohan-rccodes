@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/angraaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angraaryan" height="30" width="40" /></a>  
-<a href="https://fb.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryan angra" height="30" width="40" /></a>
-<a href="https://instagram.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan_angra" height="30" width="40" /></a>
-<a href="https://discord.gg/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="rccodes" height="30" width="40" /></a>
+<a href="https://twitter.com/angraaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rohan-rccodes" height="30" width="40" /></a>  
+<a href="https://fb.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
+<a href="https://instagram.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
+<a href="https://discord.gg/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="Rohan-rccodes" height="30" width="40" /></a>
 <!-- <a href = "mailto:Itschauhan101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="rccodes" height="30" width="120" /></a> -->
 </p>
 
@@ -45,19 +45,11 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rohan-rccodes&show_icons=true&locale=en&theme=" alt="rohan-rccodes" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-rccodes&theme=" alt="rohan-rccodes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-angra&show_icons=true&locale=en&layout=compact" alt="Rohan-rccodes" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/rohan-rccodes">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohan-rccodes&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohan-rccodes&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohan-rccodes&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohan-rccodes&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-rccodes&theme=2077" height="180em" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-angra&show_icons=true&locale=en" alt="Rohan-rccodes" /></p>
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 -->
