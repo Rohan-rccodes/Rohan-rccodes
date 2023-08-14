@@ -19,8 +19,11 @@
 <a href="https://twitter.com/angraaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angraaryan" height="30" width="40" /></a>  
 <a href="https://fb.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryan angra" height="30" width="40" /></a>
 <a href="https://instagram.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan_angra" height="30" width="40" /></a>
+<a href="https://discord.gg/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="rccodes" height="30" width="40" /></a>
 <a href = "mailto:Itschauhan101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="rccodes" height="30" width="120" /></a>
-<a href="https://discord.gg/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="rccodes" height="30" width="40" /></a><a href="https://instagram.com/rccodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="rccodes" height="30" width="40" /></a></p>
+</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
