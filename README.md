@@ -14,13 +14,10 @@
 - 👨‍💻 All of my projects are available at **https://github.com/Rohan-rccodes**
 - ⚡ Fun fact **I'm funny..**
 
-<div> <a href="https://github.com/rohan-rccodes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="rccodes" height="30" width="120" style="border-radius: 20;"/ ></a>
-<a href="https://instagram.com/rccodes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="rccodes" height="30" width="120" /></a>
-<a href = "mailto:Itschauhan101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="rccodes" height="30" width="120" /></a>
-</div><h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/rohan-rccodes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="rccodes" height="30" width="120" style="border-radius: 20;"/ ></a>
-<!-- <a href="https://fb.com/aryan angra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryan angra" height="30" width="40" /></a> -->
+<a href="https://fb.com/aryan angra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryan angra" height="30" width="40" /></a>
 <a href="https://instagram.com/rccodes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="rccodes" height="30" width="120" /></a>
 <a href = "mailto:Itschauhan101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="rccodes" height="30" width="120" /></a>
 <h3 align="left">Connect with me:</h3>
