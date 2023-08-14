@@ -48,7 +48,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-rccodes&show_icons=true&locale=en&layout=compact" alt="Rohan-rccodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-angra&show_icons=true&locale=en" alt="Rohan-rccodes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-rccodes&show_icons=true&locale=en" alt="Rohan-rccodes" /></p>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
