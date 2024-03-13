@@ -3,7 +3,7 @@
 <h3 align="center">I'm Frontend Developer & 3rd year BCA Student. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-rccodes&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-rccodes" /> </p>
 
-<img align="right" alt="coding-gif" width="400" src="[https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif)">
+<img align="right" alt="coding-gif" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_23-2149365021.jpg?t=st=1710320176~exp=1710323776~hmac=57ea3ce0483264e16c7fd5a3390f085310b66607126e6a985fe2e1c9456284ba&w=740">
 
 - 🔭 I’m currently studying **Computer Applications **
 - 👯 I’m looking to collaborate on [Programming related Content & post on Instagram ](https://www.instagram.com/rccodes/)
