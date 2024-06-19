@@ -3,7 +3,7 @@
 <h3 align="center">I'm Frontend Developer & 3rd year BCA Student. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-rccodes&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-rccodes" /> </p>
 
-<img align="right" alt="coding-gif" width="350" src="https://giphy.com/clips/future-midjourney-chat-gpt-M16EnP70Vd6abjtsJT">
+<img align="right" alt="coding-gif" width="350" src="https://imgs.search.brave.com/vB_NpB0DIrxQjl_rKL086px9bl3IqpE1Tp5oDSySpBI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbWFuLWNv/ZGluZy1pbWFnaW5h/dGlvbi1qZHgxcnVt/dGE4emkyNzYzLmdp/Zg.gif">
 
 - 🔭 I’m currently studying **Computer Applications **
 - 👯 I’m looking to collaborate on [Programming related Content & post on Instagram ](https://www.instagram.com/rccodes/)
